@@ -1,489 +1,320 @@
-{
-  "categories": [
+[
     {
-      "id": "0",
-      "isFeatured": true,
-      "categoryImgLink": "https://images.yen.com.gh/images/12c6b4929d74869f.jpg?imwidth=900",
-      "name": "Crispy Fruit and Vegetables",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
-      "products": [
-        {
-          "id": "0",
-          "name": "Okra Chips",
-          "descTitle": "Savor the joy of Crispy Fruits and Vegetables",
-          "descContent": "Embark on a crispy and flavorful adventure with our Crispy Fruits and Vegetables collection immerse yourself in a symphony of textures and taste as you savor each bite. Carefully crafted, our assortment showcases a vibrant array of dehydrated fruits and vegetables, capturing the essence of freshness and crunch in every piece.",
-          "flavorProfile": [
+        "_id": "65eff0466582d10e0e129dda",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Uploaded",
+        "imgUrl": "Sample Url",
+        "name": "Milktea",
+        "description": "Sample description",
+        "products": [
             {
-              "flavorTitle": "Sweetness",
-              "value": 4,
-              "maxValue": 5
-            },
-            {
-              "flavorTitle": "Crunchiness",
-              "value": 3,
-              "maxValue": 5
+                "_id": "65efe625326234cd2ab16b5e",
+                "id": 12345,
+                "status": "Drafted",
+                "name": "Special Protein Blend",
+                "category": "65eff0466582d10e0e129dda",
+                "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
+                "specification": [
+                    {
+                        "flavour": "Chocolate",
+                        "min_value": 25,
+                        "max_value": 30,
+                        "_id": "65efe625326234cd2ab16b5f"
+                    },
+                    {
+                        "flavour": "Vanilla",
+                        "min_value": 23,
+                        "max_value": 28,
+                        "_id": "65efe625326234cd2ab16b60"
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": 1,
+                        "price": 39.99,
+                        "title": "500g",
+                        "images": [
+                            {
+                                "productImgLink": "https://example.com/superprotein_500g.jpg",
+                                "_id": "65efe625326234cd2ab16b62"
+                            }
+                        ],
+                        "_id": "65efe625326234cd2ab16b61"
+                    },
+                    {
+                        "id": 2,
+                        "price": 69.99,
+                        "title": "1kg",
+                        "images": [
+                            {
+                                "productImgLink": "https://example.com/superprotein_1kg.jpg",
+                                "_id": "65efe625326234cd2ab16b64"
+                            }
+                        ],
+                        "_id": "65efe625326234cd2ab16b63"
+                    }
+                ],
+                "nutritionalFacts": [
+                    {
+                        "servingperContainer": [
+                            {
+                                "valueWithUnit": "20g",
+                                "_id": "65efe625326234cd2ab16b66"
+                            }
+                        ],
+                        "servingSize": [
+                            {
+                                "valueWithUnit": "30g",
+                                "_id": "65efe625326234cd2ab16b67"
+                            }
+                        ],
+                        "calories": 130,
+                        "item": [
+                            {
+                                "item": "Protein",
+                                "valueWithUnit": "25g",
+                                "_id": "65efe625326234cd2ab16b68"
+                            },
+                            {
+                                "item": "Carbohydrates",
+                                "valueWithUnit": "5g",
+                                "_id": "65efe625326234cd2ab16b69"
+                            },
+                            {
+                                "item": "Fat",
+                                "valueWithUnit": "1g",
+                                "_id": "65efe625326234cd2ab16b6a"
+                            }
+                        ],
+                        "_id": "65efe625326234cd2ab16b65"
+                    }
+                ],
+                "dateCreated": "2024-03-05",
+                "giftingInformation": [
+                    {
+                        "type": "Birthday",
+                        "_id": "65efe625326234cd2ab16b6b"
+                    }
+                ],
+                "__v": 0,
+                "maxPrice": 70,
+                "minPrice": 40
             }
-          ],
-          "variation": [
-            {
-              "id": "0",
-              "price": "200",
-              "title": "100 grams",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            },
-            {
-              "id": "1",
-              "price": "250",
-              "title": "200 grams",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Per Container",
-              "nutritionValue": "8",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Total Fat",
-              "nutritionValue": "4.6g",
-              "subNutrition": [
-                {
-                  "subNutritionTitle": "Saturated Fat",
-                  "subNutritionValue": "0.7g"
-                },
-                {
-                  "subNutritionTitle": "Trans Fat",
-                  "subNutritionValue": "3.9g"
-                }
-              ]
-            }
-          ],
-          "giftingInformation": [
-            "The gift includes a compilementary personalized card which can be added during checkout",
-            "Each order comes with Bateel paper bag",
-            "Additional gift wrapping is not available in this product"
-          ]
-        },
-        {
-          "id": "1",
-          "name": "Carrot Crisps",
-          "descTitle": "Experience the crunch of natural goodness",
-          "descContent": "Indulge in the wholesome crunch of our Carrot Crisps. Made from freshly harvested carrots, thinly sliced and crisped to perfection, these snacks are a delightful blend of health and taste. Whether enjoyed as a guilt-free snack or paired with your favorite dip, our Carrot Crisps promise to tantalize your taste buds with every bite.",
-          "flavorProfile": [
-            {
-              "flavorTitle": "Sweetness",
-              "value": 2,
-              "maxValue": 5
-            },
-            {
-              "flavorTitle": "Crunchiness",
-              "value": 4,
-              "maxValue": 5
-            }
-          ],
-          "variation": [
-            {
-              "id": "0",
-              "price": "400",
-              "title": "50 grams",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Per Container",
-              "nutritionValue": "6",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Total Fat",
-              "nutritionValue": "3.2g",
-              "subNutrition": [
-                {
-                  "subNutritionTitle": "Saturated Fat",
-                  "subNutritionValue": "0.5g"
-                },
-                {
-                  "subNutritionTitle": "Trans Fat",
-                  "subNutritionValue": "2.7g"
-                }
-              ]
-            }
-          ],
-          "giftingInformation": [
-            "The gift includes a compilementary personalized card which can be added during checkout",
-            "Each order comes with Bateel paper bag",
-            "Additional gift wrapping is available upon request"
-          ]
-        }
-      ]
+        ],
+        "__v": 0,
+        "dateCreated": "2024-03-05"
     },
     {
-      "id": "1",
-      "isFeatured": true,
-      "categoryImgLink": "https://images2.alphacoders.com/769/769091.png",
-      "name": "Dates Delights",
-      "description": "Indulge in the natural sweetness and wholesome goodness of our Dates Delights collection. Sourced from the finest date palms, our dates are handpicked and carefully curated to offer you a delightful culinary experience.",
-      "products": [
-        {
-          "id": "2",
-          "name": "Medjool Majesty",
-          "descTitle": "Experience the Royalty of Dates",
-          "descContent": "Treat yourself to the rich and succulent taste of Medjool Majesty dates. Known as the 'King of Dates', these premium Medjool dates boast a luscious caramel-like flavor and a soft, chewy texture that melts in your mouth with every bite.",
-          "flavorProfile": [
+        "_id": "65eff0846582d10e0e129ddf",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Drafted",
+        "imgUrl": "Sample Url",
+        "name": "Coffee",
+        "description": "Sample description",
+        "products": [
             {
-              "flavorTitle": "Sweetness",
-              "value": 5,
-              "maxValue": 5
-            },
-            {
-              "flavorTitle": "Texture",
-              "value": 2,
-              "maxValue": 3
+                "_id": "65f0149cb11b0550558364d5",
+                "id": 12345,
+                "status": "Drafted",
+                "name": "Regular Protein Blend",
+                "category": "65eff0846582d10e0e129ddf",
+                "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
+                "specification": [
+                    {
+                        "flavour": "Chocolate",
+                        "min_value": 25,
+                        "max_value": 30,
+                        "_id": "65f0149cb11b0550558364d6"
+                    },
+                    {
+                        "flavour": "Vanilla",
+                        "min_value": 23,
+                        "max_value": 28,
+                        "_id": "65f0149cb11b0550558364d7"
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": 1,
+                        "price": 39.99,
+                        "title": "500g",
+                        "images": [
+                            {
+                                "productImgLink": "https://example.com/superprotein_500g.jpg",
+                                "_id": "65f0149cb11b0550558364d9"
+                            }
+                        ],
+                        "_id": "65f0149cb11b0550558364d8"
+                    },
+                    {
+                        "id": 2,
+                        "price": 69.99,
+                        "title": "1kg",
+                        "images": [
+                            {
+                                "productImgLink": "https://example.com/superprotein_1kg.jpg",
+                                "_id": "65f0149cb11b0550558364db"
+                            }
+                        ],
+                        "_id": "65f0149cb11b0550558364da"
+                    }
+                ],
+                "nutritionalFacts": [
+                    {
+                        "servingperContainer": [
+                            {
+                                "valueWithUnit": "20g",
+                                "_id": "65f0149cb11b0550558364dd"
+                            }
+                        ],
+                        "servingSize": [
+                            {
+                                "valueWithUnit": "30g",
+                                "_id": "65f0149cb11b0550558364de"
+                            }
+                        ],
+                        "calories": 130,
+                        "item": [
+                            {
+                                "item": "Protein",
+                                "valueWithUnit": "25g",
+                                "_id": "65f0149cb11b0550558364df"
+                            },
+                            {
+                                "item": "Carbohydrates",
+                                "valueWithUnit": "5g",
+                                "_id": "65f0149cb11b0550558364e0"
+                            },
+                            {
+                                "item": "Fat",
+                                "valueWithUnit": "1g",
+                                "_id": "65f0149cb11b0550558364e1"
+                            }
+                        ],
+                        "_id": "65f0149cb11b0550558364dc"
+                    }
+                ],
+                "dateCreated": "2024-03-12",
+                "giftingInformation": [
+                    {
+                        "type": "Birthday",
+                        "_id": "65f0149cb11b0550558364e2"
+                    }
+                ],
+                "__v": 0,
+                "maxPrice": 70,
+                "minPrice": 40
             }
-          ],
-          "variation": [
-            {
-              "id": "2",
-              "price": "500",
-              "title": "500g Box",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "price": "550",
-              "title": "1kg Box",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Size",
-              "nutritionValue": "100g",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Calories",
-              "nutritionValue": "277",
-              "subNutrition": []
-            }
-          ],
-          "giftingInformation": [
-            "Perfect for gifting on special occasions",
-            "Add a personalized message during checkout",
-            "Additional gift wrapping options available"
-          ]
-        },
-        {
-          "id": "3",
-          "name": "Deglet Nour Delight",
-          "descTitle": "Embrace the Delicacy of Tunisian Dates",
-          "descContent": "Embark on a culinary journey with our Deglet Nour Delight dates, sourced from the sun-drenched groves of Tunisia. With their delicate flavor and semi-dry texture, these dates are perfect for snacking, baking, or adding a touch of sweetness to your favorite dishes.",
-          "flavorProfile": [
-            {
-              "flavorTitle": "Sweetness",
-              "value": 4,
-              "maxValue": 5
-            },
-            {
-              "flavorTitle": "Versatility",
-              "value": 5,
-              "maxValue": 5
-            }
-          ],
-          "variation": [
-            {
-              "id": "5",
-              "price": "150",
-              "title": "250g Pack",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            },
-            {
-              "id": "6",
-              "price": "200",
-              "title": "500g Pack",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Size",
-              "nutritionValue": "100g",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Protein",
-              "nutritionValue": "1.81g",
-              "subNutrition": []
-            }
-          ],
-          "giftingInformation": [
-            "Ideal for health-conscious individuals",
-            "Add a personalized message during checkout",
-            "Additional gift wrapping options available"
-          ]
-        }
-      ]
+        ],
+        "__v": 0,
+        "dateCreated": "2024-03-05"
     },
     {
-      "id": "2",
-      "isFeatured": true,
-      "categoryImgLink": "https://i.pinimg.com/originals/dd/ba/af/ddbaafe563c661d91eeb4f386f9c161d.jpg",
-      "name": "Exotic Date Experiences",
-      "description": "Discover the exotic world of dates with our Exotic Date Experiences collection. From rare varieties to unique flavor combinations, each date offers a journey of taste and indulgence.",
-      "products": [
-        {
-          "id": "4",
-          "name": "Golden Zahidi Gems",
-          "descTitle": "Uncover the Golden Treasures of Zahidi Dates",
-          "descContent": "Experience the opulence of Golden Zahidi Gems, prized for their golden hue and exquisite flavor. Sourced from the Arabian Peninsula, these dates boast a subtle sweetness and a delightful chewy texture, making them a luxurious treat for any occasion.",
-          "flavorProfile": [
+        "_id": "65f01472b11b0550558364cc",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Uploaded",
+        "imgUrl": "Sample Url",
+        "name": "Kape",
+        "description": "Sample Description",
+        "products": [
             {
-              "flavorTitle": "Sweetness",
-              "value": 3,
-              "maxValue": 5
-            },
-            {
-              "flavorTitle": "Exoticness",
-              "value": 1,
-              "maxValue": 5
+                "_id": "65f0228ce75fb8bb8442ec92",
+                "id": 12345,
+                "status": "Drafted",
+                "name": "Special Protein Blend",
+                "category": "65f01472b11b0550558364cc",
+                "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
+                "specification": [
+                    {
+                        "flavour": "Chocolate",
+                        "min_value": 25,
+                        "max_value": 30,
+                        "_id": "65efe625326234cd2ab16b5f"
+                    },
+                    {
+                        "flavour": "Vanilla",
+                        "min_value": 23,
+                        "max_value": 28,
+                        "_id": "65efe625326234cd2ab16b60"
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": 1,
+                        "price": 39.99,
+                        "title": "500g",
+                        "images": [
+                            {
+                                "productImgLink": "https://example.com/superprotein_500g.jpg",
+                                "_id": "65efe625326234cd2ab16b62"
+                            }
+                        ],
+                        "_id": "65efe625326234cd2ab16b61"
+                    },
+                    {
+                        "id": 2,
+                        "price": 69.99,
+                        "title": "1kg",
+                        "images": [
+                            {
+                                "productImgLink": "https://example.com/superprotein_1kg.jpg",
+                                "_id": "65efe625326234cd2ab16b64"
+                            }
+                        ],
+                        "_id": "65efe625326234cd2ab16b63"
+                    }
+                ],
+                "nutritionalFacts": [
+                    {
+                        "servingperContainer": [
+                            {
+                                "valueWithUnit": "20g",
+                                "_id": "65efe625326234cd2ab16b66"
+                            }
+                        ],
+                        "servingSize": [
+                            {
+                                "valueWithUnit": "30g",
+                                "_id": "65efe625326234cd2ab16b67"
+                            }
+                        ],
+                        "calories": 130,
+                        "item": [
+                            {
+                                "item": "Protein",
+                                "valueWithUnit": "25g",
+                                "_id": "65efe625326234cd2ab16b68"
+                            },
+                            {
+                                "item": "Carbohydrates",
+                                "valueWithUnit": "5g",
+                                "_id": "65efe625326234cd2ab16b69"
+                            },
+                            {
+                                "item": "Fat",
+                                "valueWithUnit": "1g",
+                                "_id": "65efe625326234cd2ab16b6a"
+                            }
+                        ],
+                        "_id": "65efe625326234cd2ab16b65"
+                    }
+                ],
+                "dateCreated": "2024-03-05",
+                "giftingInformation": [
+                    {
+                        "type": "Birthday",
+                        "_id": "65efe625326234cd2ab16b6b"
+                    }
+                ],
+                "__v": 0,
+                "maxPrice": 70,
+                "minPrice": 40
             }
-          ],
-          "variation": [
-            {
-              "id": "7",
-              "price": "700",
-              "title": "200g Pouch",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            },
-            {
-              "id": "8",
-              "price": "750",
-              "title": "400g Box",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Size",
-              "nutritionValue": "100g",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Fiber",
-              "nutritionValue": "6.7g",
-              "subNutrition": []
-            }
-          ],
-          "giftingInformation": [
-            "Luxurious gift for loved ones",
-            "Add a personalized message during checkout",
-            "Beautiful packaging options available"
-          ]
-        },
-        {
-          "id": "5",
-          "name": "Black Barhi Bounty",
-          "descTitle": "Delight in the Richness of Black Barhi Dates",
-          "descContent": "Indulge in the velvety sweetness of Black Barhi Bounty dates, known for their deep black color and complex flavor profile. Sourced from ancient date palms, these rare gems offer a unique blend of caramel and molasses notes, making them a true delicacy.",
-          "flavorProfile": [
-            {
-              "flavorTitle": "Sweetness",
-              "value": 4,
-              "maxValue": 5
-            },
-            {
-              "flavorTitle": "Richness",
-              "value": 2,
-              "maxValue": 5
-            }
-          ],
-          "variation": [
-            {
-              "id": "9",
-              "price": "500",
-              "title": "300g Tin",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            },
-            {
-              "id": "10",
-              "price": "520",
-              "title": "600g Jar",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Size",
-              "nutritionValue": "100g",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Potassium",
-              "nutritionValue": "696mg",
-              "subNutrition": []
-            }
-          ],
-          "giftingInformation": [
-            "Exclusive gift for connoisseurs",
-            "Add a personalized message during checkout",
-            "Luxurious packaging options available"
-          ]
-        },
-        {
-          "id": "6",
-          "name": "Green Barhi Bounty",
-          "descTitle": "Delight in the Richness of Green Barhi Dates",
-          "descContent": "Indulge in the velvety sweetness of Green Barhi Bounty dates, known for their deep black color and complex flavor profile. Sourced from ancient date palms, these rare gems offer a unique blend of caramel and molasses notes, making them a true delicacy.",
-          "flavorProfile": [
-            {
-              "flavorTitle": "Sweetness",
-              "value": 1,
-              "maxValue": 3
-            },
-            {
-              "flavorTitle": "Richness",
-              "value": 2,
-              "maxValue": 3
-            }
-          ],
-          "variation": [
-            {
-              "id": "11",
-              "price": "850",
-              "title": "300g Tin",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            },
-            {
-              "id": "12",
-              "price": "950",
-              "title": "600g Jar",
-              "images": [
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?q=80&w=1975&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                  "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                }
-              ]
-            }
-          ],
-          "nutritionFacts": [
-            {
-              "nutritionTitle": "Serving Size",
-              "nutritionValue": "100g",
-              "subNutrition": []
-            },
-            {
-              "nutritionTitle": "Potassium",
-              "nutritionValue": "696mg",
-              "subNutrition": []
-            }
-          ],
-          "giftingInformation": [
-            "Exclusive gift for connoisseurs",
-            "Add a personalized message during checkout",
-            "Luxurious packaging options available"
-          ]
-        }
-      ]
+        ],
+        "__v": 0,
+        "dateCreated": "2024-03-12"
     }
-  ]
-}
+]

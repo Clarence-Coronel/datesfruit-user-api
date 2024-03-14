@@ -4,7 +4,7 @@
         "id": 5,
         "isFeatured": true,
         "status": "Uploaded",
-        "imgUrl": "Sample Url",
+        "imgUrl": "https://images.yen.com.gh/images/12c6b4929d74869f.jpg?imwidth=900",
         "name": "Milktea",
         "description": "Sample description",
         "products": [
@@ -110,7 +110,7 @@
         "id": 5,
         "isFeatured": true,
         "status": "Drafted",
-        "imgUrl": "Sample Url",
+        "imgUrl": "https://images2.alphacoders.com/769/769091.png",
         "name": "Coffee",
         "description": "Sample description",
         "products": [
@@ -216,7 +216,7 @@
         "id": 5,
         "isFeatured": true,
         "status": "Uploaded",
-        "imgUrl": "Sample Url",
+        "imgUrl": "https://i.pinimg.com/originals/dd/ba/af/ddbaafe563c661d91eeb4f386f9c161d.jpg",
         "name": "Kape",
         "description": "Sample Description",
         "products": [

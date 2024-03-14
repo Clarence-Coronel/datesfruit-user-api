@@ -18,14 +18,14 @@
                 "specification": [
                     {
                         "flavour": "Chocolate",
-                        "min_value": 25,
-                        "max_value": 30,
+                        "min_value": 2,
+                        "max_value": 3,
                         "_id": "65efe625326234cd2ab16b5f"
                     },
                     {
                         "flavour": "Vanilla",
-                        "min_value": 23,
-                        "max_value": 28,
+                        "min_value": 3,
+                        "max_value": 8,
                         "_id": "65efe625326234cd2ab16b60"
                     }
                 ],
@@ -143,14 +143,14 @@
                 "specification": [
                     {
                         "flavour": "Chocolate",
-                        "min_value": 25,
-                        "max_value": 30,
+                        "min_value": 2,
+                        "max_value": 5,
                         "_id": "65f0149cb11b0550558364d6"
                     },
                     {
                         "flavour": "Vanilla",
-                        "min_value": 23,
-                        "max_value": 28,
+                        "min_value": 2,
+                        "max_value": 2,
                         "_id": "65f0149cb11b0550558364d7"
                     }
                 ],
@@ -268,14 +268,14 @@
                 "specification": [
                     {
                         "flavour": "Chocolate",
-                        "min_value": 25,
-                        "max_value": 30,
+                        "min_value": 10,
+                        "max_value": 10,
                         "_id": "65efe625326234cd2ab16b5f"
                     },
                     {
                         "flavour": "Vanilla",
-                        "min_value": 23,
-                        "max_value": 28,
+                        "min_value": 6,
+                        "max_value": 10,
                         "_id": "65efe625326234cd2ab16b60"
                     }
                 ],

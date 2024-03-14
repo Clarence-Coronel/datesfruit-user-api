@@ -72,19 +72,38 @@
                         "calories": 130,
                         "item": [
                             {
+                                "item": "Sugar",
+                                "valueWithUnit": "50g",
+                                "subitem": [
+                                    {
+                                        "name": "Glucose",
+                                        "valueWithUnit": "30g",
+                                        "_id": "65f267a7186edd36c97dd9f4"
+                                    },
+                                    {
+                                        "name": "Fructose",
+                                        "valueWithUnit": "20g",
+                                        "_id": "65f267a7186edd36c97dd9f5"
+                                    }
+                                ],
+                                "_id": "65f267a7186edd36c97dd9f3"
+                            },
+                            {
                                 "item": "Protein",
                                 "valueWithUnit": "25g",
-                                "_id": "65efe625326234cd2ab16b68"
-                            },
-                            {
-                                "item": "Carbohydrates",
-                                "valueWithUnit": "5g",
-                                "_id": "65efe625326234cd2ab16b69"
-                            },
-                            {
-                                "item": "Fat",
-                                "valueWithUnit": "1g",
-                                "_id": "65efe625326234cd2ab16b6a"
+                                "subitem": [
+                                    {
+                                        "name": "Whey",
+                                        "valueWithUnit": "15g",
+                                        "_id": "65f267a7186edd36c97dd9f7"
+                                    },
+                                    {
+                                        "name": "Casein",
+                                        "valueWithUnit": "10g",
+                                        "_id": "65f267a7186edd36c97dd9f8"
+                                    }
+                                ],
+                                "_id": "65f267a7186edd36c97dd9f6"
                             }
                         ],
                         "_id": "65efe625326234cd2ab16b65"
@@ -178,19 +197,38 @@
                         "calories": 130,
                         "item": [
                             {
+                                "item": "Sugar",
+                                "valueWithUnit": "50g",
+                                "subitem": [
+                                    {
+                                        "name": "Glucose",
+                                        "valueWithUnit": "30g",
+                                        "_id": "65f267a7186edd36c97dd9f4"
+                                    },
+                                    {
+                                        "name": "Fructose",
+                                        "valueWithUnit": "20g",
+                                        "_id": "65f267a7186edd36c97dd9f5"
+                                    }
+                                ],
+                                "_id": "65f267a7186edd36c97dd9f3"
+                            },
+                            {
                                 "item": "Protein",
                                 "valueWithUnit": "25g",
-                                "_id": "65f0149cb11b0550558364df"
-                            },
-                            {
-                                "item": "Carbohydrates",
-                                "valueWithUnit": "5g",
-                                "_id": "65f0149cb11b0550558364e0"
-                            },
-                            {
-                                "item": "Fat",
-                                "valueWithUnit": "1g",
-                                "_id": "65f0149cb11b0550558364e1"
+                                "subitem": [
+                                    {
+                                        "name": "Whey",
+                                        "valueWithUnit": "15g",
+                                        "_id": "65f267a7186edd36c97dd9f7"
+                                    },
+                                    {
+                                        "name": "Casein",
+                                        "valueWithUnit": "10g",
+                                        "_id": "65f267a7186edd36c97dd9f8"
+                                    }
+                                ],
+                                "_id": "65f267a7186edd36c97dd9f6"
                             }
                         ],
                         "_id": "65f0149cb11b0550558364dc"
@@ -284,19 +322,38 @@
                         "calories": 130,
                         "item": [
                             {
+                                "item": "Sugar",
+                                "valueWithUnit": "50g",
+                                "subitem": [
+                                    {
+                                        "name": "Glucose",
+                                        "valueWithUnit": "30g",
+                                        "_id": "65f267a7186edd36c97dd9f4"
+                                    },
+                                    {
+                                        "name": "Fructose",
+                                        "valueWithUnit": "20g",
+                                        "_id": "65f267a7186edd36c97dd9f5"
+                                    }
+                                ],
+                                "_id": "65f267a7186edd36c97dd9f3"
+                            },
+                            {
                                 "item": "Protein",
                                 "valueWithUnit": "25g",
-                                "_id": "65efe625326234cd2ab16b68"
-                            },
-                            {
-                                "item": "Carbohydrates",
-                                "valueWithUnit": "5g",
-                                "_id": "65efe625326234cd2ab16b69"
-                            },
-                            {
-                                "item": "Fat",
-                                "valueWithUnit": "1g",
-                                "_id": "65efe625326234cd2ab16b6a"
+                                "subitem": [
+                                    {
+                                        "name": "Whey",
+                                        "valueWithUnit": "15g",
+                                        "_id": "65f267a7186edd36c97dd9f7"
+                                    },
+                                    {
+                                        "name": "Casein",
+                                        "valueWithUnit": "10g",
+                                        "_id": "65f267a7186edd36c97dd9f8"
+                                    }
+                                ],
+                                "_id": "65f267a7186edd36c97dd9f6"
                             }
                         ],
                         "_id": "65efe625326234cd2ab16b65"

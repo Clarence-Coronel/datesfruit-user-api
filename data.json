@@ -1,117 +1,176 @@
 [
     {
-      "_id": "65eff0466582d10e0e129dda",
+      "_id": "db8a5183-a045-4971-a03b-a03a693aefc2",
       "id": 5,
       "isFeatured": true,
       "status": "Uploaded",
-      "imgUrl": "https://bucket.devdojo.cloud/datesfruits/65f2bd7061743.jpg",
-      "name": "Milktea",
-      "description": "Sample description",
+      "imgUrl": "https://loremflickr.com/640/480?lock=6864049851596800",
+      "name": "Bode, Feeney and Farrell",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
       "products": [
         {
-          "_id": "65f26878a8128e5f45db6957",
+          "_id": "a31c5f72-8179-4481-9600-37bd8915a299",
           "id": 12345,
           "status": "Drafted",
-          "name": "Regular Protein Blend",
-          "category": "65eff0466582d10e0e129dda",
-          "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
+          "name": "Recycled Concrete Salad",
+          "category": "68fa28d4-925a-4e13-a939-7b2cbb32151d",
+          "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
           "specification": [
             {
-              "flavour": "Chocolate",
-              "min_value": 1,
-              "max_value": 8,
-              "_id": "65f26878a8128e5f45db6958"
-            },
-            {
-              "flavour": "Vanilla",
-              "min_value": 2,
-              "max_value": 9,
-              "_id": "65f26878a8128e5f45db6959"
+              "flavour": "Electronic",
+              "min_value": 8,
+              "max_value": 10,
+              "_id": "44091723-1723-410b-addb-f72cad5efe85"
             }
           ],
           "variants": [
             {
               "id": 1,
-              "price": 39.99,
-              "title": "500g",
+              "price": 436.02,
+              "title": "Small",
               "images": [
                 {
-                  "productImgLink": "https://bucket.devdojo.cloud/datesfruits/65f2bd7061743.jpg",
+                  "productImgLink": "https://loremflickr.com/640/480?lock=7543923878658048",
                   "_id": "65f26878a8128e5f45db695b"
                 }
               ],
               "_id": "65f26878a8128e5f45db695a"
             },
             {
-              "id": 2,
-              "price": 69.99,
-              "title": "1kg",
+              "id": 1,
+              "price": 400.15,
+              "title": "Rustic",
               "images": [
                 {
-                  "productImgLink": "https://bucket.devdojo.cloud/datesfruits/65f2c60bf3728.png",
-                  "_id": "65f26878a8128e5f45db695d"
+                  "productImgLink": "https://picsum.photos/seed/5BJ2s/640/480",
+                  "_id": "65f26878a8128e5f45db695b"
                 }
               ],
-              "_id": "65f26878a8128e5f45db695c"
+              "_id": "65f26878a8128e5f45db695a"
+            },
+            {
+              "id": 1,
+              "price": 263.56,
+              "title": "Rustic",
+              "images": [
+                {
+                  "productImgLink": "https://loremflickr.com/640/480?lock=1226530388705280",
+                  "_id": "65f26878a8128e5f45db695b"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695a"
             }
           ],
           "nutritionalFacts": [
             {
               "servingperContainer": [
                 {
-                  "valueWithUnit": "100g",
-                  "_id": "65f26878a8128e5f45db695f"
-                },
-                {
-                  "valueWithUnit": "200mg",
-                  "_id": "65f26878a8128e5f45db6960"
+                  "valueWithUnit": "Licensed",
+                  "_id": "71c996d3-d8f7-4029-80d6-d0455b62f36d"
                 }
               ],
               "servingSize": [
                 {
-                  "valueWithUnit": "50g",
-                  "_id": "65f26878a8128e5f45db6961"
-                },
-                {
-                  "valueWithUnit": "150mg",
-                  "_id": "65f26878a8128e5f45db6962"
+                  "valueWithUnit": "Intelligent",
+                  "_id": "2eeffded-aeae-4a93-a805-0b8db9c4fe9f"
                 }
               ],
-              "calories": 150,
+              "calories": 171,
               "item": [
                 {
-                  "item": "Sugar",
-                  "valueWithUnit": "50g",
+                  "item": "Elegant",
+                  "valueWithUnit": 50,
                   "subitem": [
                     {
-                      "name": "Glucose",
-                      "valueWithUnit": "30g",
-                      "_id": "65f26878a8128e5f45db6964"
+                      "name": "Handcrafted",
+                      "valueWithUnit": 129,
+                      "_id": "48fa9f3c-fdb4-4b98-90ba-29d7f467b849"
                     },
                     {
-                      "name": "Fructose",
-                      "valueWithUnit": "20g",
-                      "_id": "65f26878a8128e5f45db6965"
+                      "name": "Sleek",
+                      "valueWithUnit": 87,
+                      "_id": "ca4fe963-1462-4564-b543-49e4119b5ada"
                     }
                   ],
-                  "_id": "65f26878a8128e5f45db6963"
+                  "_id": "ff83c6df-7be7-4c78-9919-c47b503e2b1f"
                 },
                 {
-                  "item": "Protein",
-                  "valueWithUnit": "25g",
+                  "item": "Ergonomic",
+                  "valueWithUnit": 69,
                   "subitem": [
                     {
-                      "name": "Whey",
-                      "valueWithUnit": "15g",
-                      "_id": "65f26878a8128e5f45db6967"
+                      "name": "Elegant",
+                      "valueWithUnit": 99,
+                      "_id": "d2d3caca-953e-4ac0-8644-00e17e38d6df"
                     },
                     {
-                      "name": "Casein",
-                      "valueWithUnit": "10g",
-                      "_id": "65f26878a8128e5f45db6968"
+                      "name": "Practical",
+                      "valueWithUnit": 6,
+                      "_id": "41076837-b92e-41c7-a5f2-72056ff28870"
                     }
                   ],
-                  "_id": "65f26878a8128e5f45db6966"
+                  "_id": "e4be870d-50af-4133-9519-ec7736d9d735"
+                },
+                {
+                  "item": "Oriental",
+                  "valueWithUnit": 80,
+                  "subitem": [
+                    {
+                      "name": "Handmade",
+                      "valueWithUnit": 23,
+                      "_id": "1048a8b2-4c4c-4bbc-8d31-2c1d9483ae18"
+                    },
+                    {
+                      "name": "Incredible",
+                      "valueWithUnit": 39,
+                      "_id": "6bf7d9c9-149c-43cd-aa2e-bea1d2f6adbf"
+                    }
+                  ],
+                  "_id": "88a5f7a6-36a7-473e-8630-fb28cf40b661"
+                },
+                {
+                  "item": "Sleek",
+                  "valueWithUnit": 73,
+                  "subitem": [
+                    {
+                      "name": "Luxurious",
+                      "valueWithUnit": 167,
+                      "_id": "c94938e1-6f92-464f-9463-b0c4d9302e4f"
+                    },
+                    {
+                      "name": "Bespoke",
+                      "valueWithUnit": 11,
+                      "_id": "91699966-790b-4225-a874-aaf0450ed2ba"
+                    },
+                    {
+                      "name": "Tasty",
+                      "valueWithUnit": 102,
+                      "_id": "8c124012-1dbf-4ca7-995f-6f198d38bfb3"
+                    },
+                    {
+                      "name": "Tasty",
+                      "valueWithUnit": 85,
+                      "_id": "2ea24d01-b00a-460a-94e5-2acea7b2c1a3"
+                    },
+                    {
+                      "name": "Tasty",
+                      "valueWithUnit": 61,
+                      "_id": "bb5da677-93dd-468d-bb02-a2948d359454"
+                    }
+                  ],
+                  "_id": "b3b0197b-2488-4705-bb89-3fb1cd7afcd9"
+                },
+                {
+                  "item": "Bespoke",
+                  "valueWithUnit": 33,
+                  "subitem": [
+                    {
+                      "name": "Rustic",
+                      "valueWithUnit": 22,
+                      "_id": "ff0142d6-a8e9-4b4a-9fa5-2d52995a9e40"
+                    }
+                  ],
+                  "_id": "341f82bb-c749-4986-ac55-15d5c262e834"
                 }
               ],
               "_id": "65f26878a8128e5f45db695e"
@@ -133,27 +192,511 @@
       "dateCreated": "2024-03-05"
     },
     {
-      "_id": "65eff0846582d10e0e129ddf",
+      "_id": "e3f4c092-61ba-45a5-b8a9-687f588c08b5",
       "id": 5,
       "isFeatured": true,
-      "status": "Drafted",
-      "imgUrl": "Sample Url",
-      "name": "Coffee",
-      "description": "Sample description",
-      "products": [],
+      "status": "Uploaded",
+      "imgUrl": "https://loremflickr.com/640/480?lock=4823846823657472",
+      "name": "Luettgen - Shanahan",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "products": [
+        {
+          "_id": "181ca5b5-4601-4bd6-b620-60472a782aac",
+          "id": 12345,
+          "status": "Drafted",
+          "name": "Unbranded Steel Shoes",
+          "category": "ff4228b0-36ff-450c-9db3-6ba448d499cd",
+          "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+          "specification": [
+            {
+              "flavour": "Modern",
+              "min_value": 8,
+              "max_value": 10,
+              "_id": "6cc9a90b-d666-48f8-bbb5-bca7a6d63594"
+            },
+            {
+              "flavour": "Tasty",
+              "min_value": 8,
+              "max_value": 10,
+              "_id": "6e4383e0-8e8c-411b-87ee-5e2d78ba1f7a"
+            },
+            {
+              "flavour": "Incredible",
+              "min_value": 5,
+              "max_value": 10,
+              "_id": "5564afd5-c8ba-4bd5-accc-4523e52c58fb"
+            },
+            {
+              "flavour": "Modern",
+              "min_value": 7,
+              "max_value": 10,
+              "_id": "8e0bf9f7-1fac-4c5a-a56d-fec47bce5996"
+            }
+          ],
+          "variants": [
+            {
+              "id": 1,
+              "price": 185.94,
+              "title": "Unbranded",
+              "images": [
+                {
+                  "productImgLink": "https://loremflickr.com/640/480?lock=7731136971145216",
+                  "_id": "65f26878a8128e5f45db695b"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695a"
+            },
+            {
+              "id": 1,
+              "price": 81.41,
+              "title": "Licensed",
+              "images": [
+                {
+                  "productImgLink": "https://loremflickr.com/640/480?lock=3073785194348544",
+                  "_id": "65f26878a8128e5f45db695b"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695a"
+            }
+          ],
+          "nutritionalFacts": [
+            {
+              "servingperContainer": [
+                {
+                  "valueWithUnit": "Oriental",
+                  "_id": "9b41a254-fe51-404d-b8c7-1b05aafcd507"
+                }
+              ],
+              "servingSize": [
+                {
+                  "valueWithUnit": "Generic",
+                  "_id": "3d6af504-d118-49ec-9aff-56bd13f26568"
+                }
+              ],
+              "calories": 62,
+              "item": [
+                {
+                  "item": "Incredible",
+                  "valueWithUnit": 75,
+                  "subitem": [
+                    {
+                      "name": "Handmade",
+                      "valueWithUnit": 21,
+                      "_id": "2607c085-1433-49b5-9c86-3278b89b15a9"
+                    }
+                  ],
+                  "_id": "21575a13-1b11-41e6-97ba-4dbf65b39322"
+                },
+                {
+                  "item": "Licensed",
+                  "valueWithUnit": 36,
+                  "subitem": [
+                    {
+                      "name": "Sleek",
+                      "valueWithUnit": 172,
+                      "_id": "3211479c-9f93-4296-8850-c106ea186ad3"
+                    },
+                    {
+                      "name": "Elegant",
+                      "valueWithUnit": 91,
+                      "_id": "a41e3333-9786-4ae5-a4bd-46d9100c64a3"
+                    }
+                  ],
+                  "_id": "05983066-7285-4545-bd07-0f2704b2af28"
+                },
+                {
+                  "item": "Awesome",
+                  "valueWithUnit": 63,
+                  "subitem": [
+                    {
+                      "name": "Handcrafted",
+                      "valueWithUnit": 137,
+                      "_id": "92ea0093-3d3a-4428-8f66-b14f1f7c650c"
+                    },
+                    {
+                      "name": "Sleek",
+                      "valueWithUnit": 89,
+                      "_id": "ea312b7f-b3c5-4a90-aba5-9c772d48f35e"
+                    }
+                  ],
+                  "_id": "e2639125-ab70-4f70-871e-c6e60c6d50a8"
+                },
+                {
+                  "item": "Small",
+                  "valueWithUnit": 67,
+                  "subitem": [
+                    {
+                      "name": "Recycled",
+                      "valueWithUnit": 131,
+                      "_id": "a75d3bdf-ba44-41ee-9ce6-2f027a4b1ff5"
+                    }
+                  ],
+                  "_id": "f12c4658-0f98-41d7-a9c3-984b95b78a6a"
+                },
+                {
+                  "item": "Sleek",
+                  "valueWithUnit": 50,
+                  "subitem": [
+                    {
+                      "name": "Modern",
+                      "valueWithUnit": 156,
+                      "_id": "b6b0a030-25e7-44d2-a8dd-3a46570c7cb1"
+                    },
+                    {
+                      "name": "Practical",
+                      "valueWithUnit": 186,
+                      "_id": "e01060c2-0b5a-4a8e-a4a3-e849e096b78a"
+                    },
+                    {
+                      "name": "Awesome",
+                      "valueWithUnit": 175,
+                      "_id": "737a1feb-6e86-4480-a5b9-e9062aabebbb"
+                    },
+                    {
+                      "name": "Refined",
+                      "valueWithUnit": 167,
+                      "_id": "c37439b2-9821-4b67-84cf-0aeabb27c05c"
+                    },
+                    {
+                      "name": "Awesome",
+                      "valueWithUnit": 14,
+                      "_id": "03e351c0-9ade-4074-b31d-20f79632da2c"
+                    }
+                  ],
+                  "_id": "4c046e90-0ec0-4747-8533-47466311d0e1"
+                },
+                {
+                  "item": "Oriental",
+                  "valueWithUnit": 68,
+                  "subitem": [
+                    {
+                      "name": "Recycled",
+                      "valueWithUnit": 179,
+                      "_id": "7366209e-77ab-4577-aab1-64f9f1bf1812"
+                    },
+                    {
+                      "name": "Modern",
+                      "valueWithUnit": 178,
+                      "_id": "ac0c08f6-4529-420a-8f47-d02b2eecb360"
+                    },
+                    {
+                      "name": "Elegant",
+                      "valueWithUnit": 54,
+                      "_id": "adde475c-3cc1-43cd-bb6e-0a751eacd7d8"
+                    },
+                    {
+                      "name": "Generic",
+                      "valueWithUnit": 21,
+                      "_id": "b8330090-263e-4796-86c9-5dd4facd89a4"
+                    }
+                  ],
+                  "_id": "a1d50fb3-dc60-4787-aa31-9c77a39550f9"
+                },
+                {
+                  "item": "Unbranded",
+                  "valueWithUnit": 69,
+                  "subitem": [
+                    {
+                      "name": "Electronic",
+                      "valueWithUnit": 197,
+                      "_id": "a84edb75-5de7-4f09-880b-c5fc85efd46d"
+                    },
+                    {
+                      "name": "Small",
+                      "valueWithUnit": 193,
+                      "_id": "01250179-aba8-421b-82b2-7c9e2029fb51"
+                    },
+                    {
+                      "name": "Small",
+                      "valueWithUnit": 178,
+                      "_id": "95141678-adae-4815-a8a3-9975599b6caa"
+                    },
+                    {
+                      "name": "Unbranded",
+                      "valueWithUnit": 9,
+                      "_id": "1ee1352b-3bf5-4667-94fc-8a5e5e22fde0"
+                    },
+                    {
+                      "name": "Oriental",
+                      "valueWithUnit": 29,
+                      "_id": "12f24a81-3400-448b-abef-7f4af466421c"
+                    }
+                  ],
+                  "_id": "6e23c8b5-23de-42be-bea1-873e5613a6d2"
+                },
+                {
+                  "item": "Intelligent",
+                  "valueWithUnit": 40,
+                  "subitem": [
+                    {
+                      "name": "Oriental",
+                      "valueWithUnit": 54,
+                      "_id": "a926773b-f415-4b4e-9ab7-b286f8709106"
+                    }
+                  ],
+                  "_id": "9b18a0d2-1c11-44c9-9435-8303d240089b"
+                },
+                {
+                  "item": "Fantastic",
+                  "valueWithUnit": 15,
+                  "subitem": [
+                    {
+                      "name": "Practical",
+                      "valueWithUnit": 121,
+                      "_id": "45d8d79f-590d-44e8-9af6-cbfb76718490"
+                    },
+                    {
+                      "name": "Awesome",
+                      "valueWithUnit": 146,
+                      "_id": "0e5ba1a2-2661-4692-8b48-d7feecd155a1"
+                    },
+                    {
+                      "name": "Elegant",
+                      "valueWithUnit": 121,
+                      "_id": "3e383c38-fa95-4337-b0af-aae0c2cadc7f"
+                    },
+                    {
+                      "name": "Unbranded",
+                      "valueWithUnit": 167,
+                      "_id": "85053266-8054-47c4-8e95-e2c096331c8c"
+                    }
+                  ],
+                  "_id": "5b873b8e-fc4c-4749-a31c-c89de07c5698"
+                },
+                {
+                  "item": "Small",
+                  "valueWithUnit": 44,
+                  "subitem": [
+                    {
+                      "name": "Rustic",
+                      "valueWithUnit": 17,
+                      "_id": "bbffc8ce-a9df-41bb-8da7-c8483bc1ad12"
+                    }
+                  ],
+                  "_id": "56003c77-e679-4b4c-a9d1-6eec673bbe1a"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695e"
+            }
+          ],
+          "dateCreated": "2024-03-14",
+          "giftingInformation": [
+            {
+              "type": "Birthday",
+              "_id": "65f26878a8128e5f45db6969"
+            }
+          ],
+          "__v": 0,
+          "maxPrice": 70,
+          "minPrice": 40
+        }
+      ],
       "__v": 0,
       "dateCreated": "2024-03-05"
     },
     {
-      "_id": "65f01472b11b0550558364cc",
+      "_id": "2f6043d0-c099-4235-8e5e-5bbe6b59306c",
       "id": 5,
       "isFeatured": true,
       "status": "Uploaded",
-      "imgUrl": "Sample Url",
-      "name": "Kape",
-      "description": "Sample Description",
-      "products": [],
+      "imgUrl": "https://loremflickr.com/640/480?lock=2063764981547008",
+      "name": "Gulgowski, Smith and Kemmer",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "products": [
+        {
+          "_id": "cb46ee5d-8392-4ee8-b76f-cd21041041a9",
+          "id": 12345,
+          "status": "Drafted",
+          "name": "Bespoke Steel Pizza",
+          "category": "46e96691-f638-45e0-872e-408e9738f3ca",
+          "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+          "specification": [
+            {
+              "flavour": "Oriental",
+              "min_value": 7,
+              "max_value": 10,
+              "_id": "38508d62-ab21-470e-a2ba-3cca6c2093fb"
+            }
+          ],
+          "variants": [
+            {
+              "id": 1,
+              "price": 173.14,
+              "title": "Incredible",
+              "images": [
+                {
+                  "productImgLink": "https://loremflickr.com/640/480?lock=2800152794365952",
+                  "_id": "65f26878a8128e5f45db695b"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695a"
+            },
+            {
+              "id": 1,
+              "price": 193.41,
+              "title": "Luxurious",
+              "images": [
+                {
+                  "productImgLink": "https://loremflickr.com/640/480?lock=2605069623099392",
+                  "_id": "65f26878a8128e5f45db695b"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695a"
+            }
+          ],
+          "nutritionalFacts": [
+            {
+              "servingperContainer": [
+                {
+                  "valueWithUnit": "Elegant",
+                  "_id": "fd797aad-234d-45ec-a887-a90953e47ae9"
+                }
+              ],
+              "servingSize": [
+                {
+                  "valueWithUnit": "Recycled",
+                  "_id": "b25da510-5cdb-46b2-b1b0-ce19fad2f038"
+                }
+              ],
+              "calories": 184,
+              "item": [
+                {
+                  "item": "Rustic",
+                  "valueWithUnit": 65,
+                  "subitem": [
+                    {
+                      "name": "Ergonomic",
+                      "valueWithUnit": 137,
+                      "_id": "d85f46ed-dc9b-4c0c-9a43-0d2db54ae412"
+                    },
+                    {
+                      "name": "Small",
+                      "valueWithUnit": 92,
+                      "_id": "a24c56db-9744-4eb2-abd8-fdc4f8a641e9"
+                    }
+                  ],
+                  "_id": "bf54d932-06f7-4e42-8f18-0904f0258d42"
+                },
+                {
+                  "item": "Luxurious",
+                  "valueWithUnit": 33,
+                  "subitem": [
+                    {
+                      "name": "Unbranded",
+                      "valueWithUnit": 26,
+                      "_id": "f29fa955-874c-43e6-8823-090c390fa855"
+                    },
+                    {
+                      "name": "Intelligent",
+                      "valueWithUnit": 108,
+                      "_id": "84a318a3-66e4-4cfc-a10a-d26bd548520d"
+                    },
+                    {
+                      "name": "Luxurious",
+                      "valueWithUnit": 33,
+                      "_id": "9eae201b-b505-4d93-999b-09b7a4270ed1"
+                    },
+                    {
+                      "name": "Intelligent",
+                      "valueWithUnit": 85,
+                      "_id": "d7466221-5801-4aea-8c3e-daaa6baee0fe"
+                    }
+                  ],
+                  "_id": "429fdff4-b444-403d-ac09-79ea6c9ba928"
+                },
+                {
+                  "item": "Refined",
+                  "valueWithUnit": 33,
+                  "subitem": [
+                    {
+                      "name": "Recycled",
+                      "valueWithUnit": 172,
+                      "_id": "f8eb6320-9c21-471d-90d4-25426caa3b1c"
+                    },
+                    {
+                      "name": "Electronic",
+                      "valueWithUnit": 139,
+                      "_id": "5f688c59-299f-4fbd-8f7c-7d441fce505b"
+                    },
+                    {
+                      "name": "Licensed",
+                      "valueWithUnit": 16,
+                      "_id": "c4383666-131d-4a7e-8b63-86dc7fa5307f"
+                    }
+                  ],
+                  "_id": "7bb1fb22-3187-4b6e-a5fe-8605b040803e"
+                },
+                {
+                  "item": "Rustic",
+                  "valueWithUnit": 21,
+                  "subitem": [
+                    {
+                      "name": "Small",
+                      "valueWithUnit": 23,
+                      "_id": "6ab1f8ba-70ba-40dc-a8ae-3c4fcca841f0"
+                    },
+                    {
+                      "name": "Licensed",
+                      "valueWithUnit": 118,
+                      "_id": "b8acd78f-19d6-4003-9f98-3637ecfec8e3"
+                    },
+                    {
+                      "name": "Small",
+                      "valueWithUnit": 147,
+                      "_id": "432fc17f-0efb-4f6f-b4bd-a58cde8eff39"
+                    }
+                  ],
+                  "_id": "7deb3bef-fb3d-4493-810a-56876bae95fc"
+                },
+                {
+                  "item": "Handmade",
+                  "valueWithUnit": 15,
+                  "subitem": [
+                    {
+                      "name": "Recycled",
+                      "valueWithUnit": 9,
+                      "_id": "e8a610df-4eab-487a-9ab7-8659c3e0c615"
+                    },
+                    {
+                      "name": "Gorgeous",
+                      "valueWithUnit": 195,
+                      "_id": "a1639265-6382-41d3-8545-6ad68a7d9911"
+                    },
+                    {
+                      "name": "Elegant",
+                      "valueWithUnit": 190,
+                      "_id": "1e5d80ed-9430-410c-ba80-dd0c5b385229"
+                    },
+                    {
+                      "name": "Unbranded",
+                      "valueWithUnit": 129,
+                      "_id": "583c181d-d952-4a4d-949e-0d4341103c69"
+                    },
+                    {
+                      "name": "Refined",
+                      "valueWithUnit": 183,
+                      "_id": "60a8217a-c352-43e6-8049-106cad2f857d"
+                    }
+                  ],
+                  "_id": "2411f59c-6a3b-4faf-8d43-8a54765ad4cf"
+                }
+              ],
+              "_id": "65f26878a8128e5f45db695e"
+            }
+          ],
+          "dateCreated": "2024-03-14",
+          "giftingInformation": [
+            {
+              "type": "Birthday",
+              "_id": "65f26878a8128e5f45db6969"
+            }
+          ],
+          "__v": 0,
+          "maxPrice": 70,
+          "minPrice": 40
+        }
+      ],
       "__v": 0,
-      "dateCreated": "2024-03-12"
+      "dateCreated": "2024-03-05"
     }
-  ]
+]

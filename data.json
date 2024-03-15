@@ -4,154 +4,29 @@
         "id": 5,
         "isFeatured": true,
         "status": "Uploaded",
-        "imgUrl": "https://images.yen.com.gh/images/12c6b4929d74869f.jpg?imwidth=900",
+        "imgUrl": "https://bucket.devdojo.cloud/datesfruits/65f2bd7061743.jpg",
         "name": "Milktea",
         "description": "Sample description",
         "products": [
             {
-                "_id": "65efe625326234cd2ab16b5e",
+                "_id": "65f26878a8128e5f45db6957",
                 "id": 12345,
                 "status": "Drafted",
-                "name": "Special Protein Blend",
+                "name": "Regular Protein Blend",
                 "category": "65eff0466582d10e0e129dda",
                 "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
                 "specification": [
                     {
                         "flavour": "Chocolate",
-                        "min_value": 2,
-                        "max_value": 3,
-                        "_id": "65efe625326234cd2ab16b5f"
-                    },
-                    {
-                        "flavour": "Vanilla",
-                        "min_value": 3,
+                        "min_value": 1,
                         "max_value": 8,
-                        "_id": "65efe625326234cd2ab16b60"
-                    }
-                ],
-                "variants": [
-                    {
-                        "id": 1,
-                        "price": 39.99,
-                        "title": "500g",
-                        "images": [
-                            {
-                                "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                                "_id": "65efe625326234cd2ab16b62"
-                            }
-                        ],
-                        "_id": "65efe625326234cd2ab16b61"
-                    },
-                    {
-                        "id": 2,
-                        "price": 80.99,
-                        "title": "1kg",
-                        "images": [
-                            {
-                                "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                                "_id": "65efe625326234cd2ab16b64"
-                            }
-                        ],
-                        "_id": "65efe625326234cd2ab16b63"
-                    }
-                ],
-                "nutritionalFacts": [
-                    {
-                        "servingperContainer": [
-                            {
-                                "valueWithUnit": "20g",
-                                "_id": "65efe625326234cd2ab16b66"
-                            }
-                        ],
-                        "servingSize": [
-                            {
-                                "valueWithUnit": "30g",
-                                "_id": "65efe625326234cd2ab16b67"
-                            }
-                        ],
-                        "calories": 130,
-                        "item": [
-                            {
-                                "item": "Sugar",
-                                "valueWithUnit": "50g",
-                                "subitem": [
-                                    {
-                                        "name": "Glucose",
-                                        "valueWithUnit": "30g",
-                                        "_id": "65f267a7186edd36c97dd9f4"
-                                    },
-                                    {
-                                        "name": "Fructose",
-                                        "valueWithUnit": "20g",
-                                        "_id": "65f267a7186edd36c97dd9f5"
-                                    }
-                                ],
-                                "_id": "65f267a7186edd36c97dd9f3"
-                            },
-                            {
-                                "item": "Protein",
-                                "valueWithUnit": "25g",
-                                "subitem": [
-                                    {
-                                        "name": "Whey",
-                                        "valueWithUnit": "15g",
-                                        "_id": "65f267a7186edd36c97dd9f7"
-                                    },
-                                    {
-                                        "name": "Casein",
-                                        "valueWithUnit": "10g",
-                                        "_id": "65f267a7186edd36c97dd9f8"
-                                    }
-                                ],
-                                "_id": "65f267a7186edd36c97dd9f6"
-                            }
-                        ],
-                        "_id": "65efe625326234cd2ab16b65"
-                    }
-                ],
-                "dateCreated": "2024-03-05",
-                "giftingInformation": [
-                    {
-                        "type": "Birthday",
-                        "_id": "65efe625326234cd2ab16b6b"
-                    }
-                ],
-                "__v": 0,
-                "maxPrice": 70,
-                "minPrice": 40
-            }
-        ],
-        "__v": 0,
-        "dateCreated": "2024-03-05"
-    },
-    {
-        "_id": "65eff0846582d10e0e129ddf",
-        "id": 5,
-        "isFeatured": true,
-        "status": "Drafted",
-        "imgUrl": "https://images2.alphacoders.com/769/769091.png",
-        "name": "Coffee",
-        "description": "Sample description",
-        "products": [
-            {
-                "_id": "65f0149cb11b0550558364d5",
-                "id": 12345,
-                "status": "Drafted",
-                "name": "Regular Protein Blend",
-                "category": "65eff0846582d10e0e129ddf",
-                "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
-                "specification": [
-                    {
-                        "flavour": "Chocolate",
-                        "min_value": 2,
-                        "max_value": 5,
-                        "_id": "65f0149cb11b0550558364d6"
+                        "_id": "65f26878a8128e5f45db6958"
                     },
                     {
                         "flavour": "Vanilla",
                         "min_value": 2,
-                        "max_value": 2,
-                        "_id": "65f0149cb11b0550558364d7"
+                        "max_value": 9,
+                        "_id": "65f26878a8128e5f45db6959"
                     }
                 ],
                 "variants": [
@@ -161,11 +36,11 @@
                         "title": "500g",
                         "images": [
                             {
-                                "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                                "_id": "65f0149cb11b0550558364d9"
+                                "productImgLink": "https://bucket.devdojo.cloud/datesfruits/65f2bd7061743.jpg",
+                                "_id": "65f26878a8128e5f45db695b"
                             }
                         ],
-                        "_id": "65f0149cb11b0550558364d8"
+                        "_id": "65f26878a8128e5f45db695a"
                     },
                     {
                         "id": 2,
@@ -173,79 +48,97 @@
                         "title": "1kg",
                         "images": [
                             {
-                                "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                                "_id": "65f0149cb11b0550558364db"
+                                "productImgLink": "https://bucket.devdojo.cloud/datesfruits/65f2c60bf3728.png",
+                                "_id": "65f26878a8128e5f45db695d"
                             }
                         ],
-                        "_id": "65f0149cb11b0550558364da"
+                        "_id": "65f26878a8128e5f45db695c"
                     }
-                ],
-                "nutritionalFacts": [
-                    {
-                        "servingperContainer": [
-                            {
-                                "valueWithUnit": "20g",
-                                "_id": "65f0149cb11b0550558364dd"
-                            }
-                        ],
-                        "servingSize": [
-                            {
-                                "valueWithUnit": "30g",
-                                "_id": "65f0149cb11b0550558364de"
-                            }
-                        ],
-                        "calories": 130,
-                        "item": [
-                            {
-                                "item": "Sugar",
-                                "valueWithUnit": "50g",
-                                "subitem": [
-                                    {
-                                        "name": "Glucose",
-                                        "valueWithUnit": "30g",
-                                        "_id": "65f267a7186edd36c97dd9f4"
-                                    },
-                                    {
-                                        "name": "Fructose",
-                                        "valueWithUnit": "20g",
-                                        "_id": "65f267a7186edd36c97dd9f5"
-                                    }
-                                ],
-                                "_id": "65f267a7186edd36c97dd9f3"
-                            },
-                            {
-                                "item": "Protein",
-                                "valueWithUnit": "25g",
-                                "subitem": [
-                                    {
-                                        "name": "Whey",
-                                        "valueWithUnit": "15g",
-                                        "_id": "65f267a7186edd36c97dd9f7"
-                                    },
-                                    {
-                                        "name": "Casein",
-                                        "valueWithUnit": "10g",
-                                        "_id": "65f267a7186edd36c97dd9f8"
-                                    }
-                                ],
-                                "_id": "65f267a7186edd36c97dd9f6"
-                            }
-                        ],
-                        "_id": "65f0149cb11b0550558364dc"
-                    }
-                ],
-                "dateCreated": "2024-03-12",
-                "giftingInformation": [
-                    {
-                        "type": "Birthday",
-                        "_id": "65f0149cb11b0550558364e2"
-                    }
-                ],
-                "__v": 0,
-                "maxPrice": 70,
-                "minPrice": 40
+                ]
             }
         ],
+        "nutritionalFacts": [
+            {
+                "servingperContainer": [
+                    {
+                        "valueWithUnit": "100g",
+                        "_id": "65f26878a8128e5f45db695f"
+                    },
+                    {
+                        "valueWithUnit": "200mg",
+                        "_id": "65f26878a8128e5f45db6960"
+                    }
+                ],
+                "servingSize": [
+                    {
+                        "valueWithUnit": "50g",
+                        "_id": "65f26878a8128e5f45db6961"
+                    },
+                    {
+                        "valueWithUnit": "150mg",
+                        "_id": "65f26878a8128e5f45db6962"
+                    }
+                ],
+                "calories": 150,
+                "item": [
+                    {
+                        "item": "Sugar",
+                        "valueWithUnit": "50g",
+                        "subitem": [
+                            {
+                                "name": "Glucose",
+                                "valueWithUnit": "30g",
+                                "_id": "65f26878a8128e5f45db6964"
+                            },
+                            {
+                                "name": "Fructose",
+                                "valueWithUnit": "20g",
+                                "_id": "65f26878a8128e5f45db6965"
+                            }
+                        ],
+                        "_id": "65f26878a8128e5f45db6963"
+                    },
+                    {
+                        "item": "Protein",
+                        "valueWithUnit": "25g",
+                        "subitem": [
+                            {
+                                "name": "Whey",
+                                "valueWithUnit": "15g",
+                                "_id": "65f26878a8128e5f45db6967"
+                            },
+                            {
+                                "name": "Casein",
+                                "valueWithUnit": "10g",
+                                "_id": "65f26878a8128e5f45db6968"
+                            }
+                        ],
+                        "_id": "65f26878a8128e5f45db6966"
+                    }
+                ],
+                "_id": "65f26878a8128e5f45db695e"
+            }
+        ],
+        "dateCreated": "2024-03-14",
+        "giftingInformation": [
+            {
+                "type": "Birthday",
+                "_id": "65f26878a8128e5f45db6969"
+            }
+        ],
+        "__v": 0,
+        "maxPrice": 70,
+        "minPrice": 40
+    },
+    {
+        "_id": "65eff0846582d10e0e129ddf",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Drafted",
+        "imgUrl": "Sample Url",
+        "name": "Coffee",
+        "description": "Sample description",
+        "products": [],
         "__v": 0,
         "dateCreated": "2024-03-05"
     },
@@ -254,123 +147,10 @@
         "id": 5,
         "isFeatured": true,
         "status": "Uploaded",
-        "imgUrl": "https://i.pinimg.com/originals/dd/ba/af/ddbaafe563c661d91eeb4f386f9c161d.jpg",
+        "imgUrl": "Sample Url",
         "name": "Kape",
         "description": "Sample Description",
-        "products": [
-            {
-                "_id": "65f0228ce75fb8bb8442ec92",
-                "id": 12345,
-                "status": "Drafted",
-                "name": "Special Protein Blend",
-                "category": "65f01472b11b0550558364cc",
-                "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
-                "specification": [
-                    {
-                        "flavour": "Chocolate",
-                        "min_value": 10,
-                        "max_value": 10,
-                        "_id": "65efe625326234cd2ab16b5f"
-                    },
-                    {
-                        "flavour": "Vanilla",
-                        "min_value": 6,
-                        "max_value": 10,
-                        "_id": "65efe625326234cd2ab16b60"
-                    }
-                ],
-                "variants": [
-                    {
-                        "id": 1,
-                        "price": 39.99,
-                        "title": "500g",
-                        "images": [
-                            {
-                                "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                                "_id": "65efe625326234cd2ab16b62"
-                            }
-                        ],
-                        "_id": "65efe625326234cd2ab16b61"
-                    },
-                    {
-                        "id": 2,
-                        "price": 69.99,
-                        "title": "1kg",
-                        "images": [
-                            {
-                                "productImgLink": "https://images.unsplash.com/photo-1612506266679-606568a33215?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                                "_id": "65efe625326234cd2ab16b64"
-                            }
-                        ],
-                        "_id": "65efe625326234cd2ab16b63"
-                    }
-                ],
-                "nutritionalFacts": [
-                    {
-                        "servingperContainer": [
-                            {
-                                "valueWithUnit": "20g",
-                                "_id": "65efe625326234cd2ab16b66"
-                            }
-                        ],
-                        "servingSize": [
-                            {
-                                "valueWithUnit": "30g",
-                                "_id": "65efe625326234cd2ab16b67"
-                            }
-                        ],
-                        "calories": 130,
-                        "item": [
-                            {
-                                "item": "Sugar",
-                                "valueWithUnit": "50g",
-                                "subitem": [
-                                    {
-                                        "name": "Glucose",
-                                        "valueWithUnit": "30g",
-                                        "_id": "65f267a7186edd36c97dd9f4"
-                                    },
-                                    {
-                                        "name": "Fructose",
-                                        "valueWithUnit": "20g",
-                                        "_id": "65f267a7186edd36c97dd9f5"
-                                    }
-                                ],
-                                "_id": "65f267a7186edd36c97dd9f3"
-                            },
-                            {
-                                "item": "Protein",
-                                "valueWithUnit": "25g",
-                                "subitem": [
-                                    {
-                                        "name": "Whey",
-                                        "valueWithUnit": "15g",
-                                        "_id": "65f267a7186edd36c97dd9f7"
-                                    },
-                                    {
-                                        "name": "Casein",
-                                        "valueWithUnit": "10g",
-                                        "_id": "65f267a7186edd36c97dd9f8"
-                                    }
-                                ],
-                                "_id": "65f267a7186edd36c97dd9f6"
-                            }
-                        ],
-                        "_id": "65efe625326234cd2ab16b65"
-                    }
-                ],
-                "dateCreated": "2024-03-05",
-                "giftingInformation": [
-                    {
-                        "type": "Birthday",
-                        "_id": "65efe625326234cd2ab16b6b"
-                    }
-                ],
-                "__v": 0,
-                "maxPrice": 70,
-                "minPrice": 40
-            }
-        ],
+        "products": [],
         "__v": 0,
         "dateCreated": "2024-03-12"
     }

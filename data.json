@@ -1,117 +1,157 @@
-{
-    "_id": "65eff0466582d10e0e129ddb",
-    "id": 6,
-    "isFeatured": true,
-    "status": "Uploaded",
-    "imgUrl": "https://bucket.devdojo.cloud/datesfruits/medjool-dates.jpg",
-    "name": "Medjool Dates",
-    "description": "Premium quality Medjool dates known for their rich taste and soft texture.",
-    "products": [
-        {
-            "_id": "65f26878a8128e5f45db6958",
-            "id": 54321,
-            "status": "Drafted",
-            "name": "Standard Pack",
-            "category": "65eff0466582d10e0e129ddb",
-            "description": "A standard pack of fresh Medjool dates sourced from organic farms.",
-            "specification": [
-                {
-                    "size": "Large",
-                    "weight": "500g",
-                    "_id": "65f26878a8128e5f45db6959"
-                },
-                {
-                    "size": "Extra Large",
-                    "weight": "1kg",
-                    "_id": "65f26878a8128e5f45db695a"
-                }
-            ],
-            "variants": [
-                {
-                    "id": 1,
-                    "price": 29.99,
-                    "title": "500g",
-                    "images": [
-                        {
-                            "productImgLink": "https://bucket.devdojo.cloud/datesfruits/medjool-dates-500g.jpg",
-                            "_id": "65f26878a8128e5f45db695b"
-                        }
-                    ],
-                    "_id": "65f26878a8128e5f45db695c"
-                },
-                {
-                    "id": 2,
-                    "price": 49.99,
-                    "title": "1kg",
-                    "images": [
-                        {
-                            "productImgLink": "https://bucket.devdojo.cloud/datesfruits/medjool-dates-1kg.jpg",
-                            "_id": "65f26878a8128e5f45db695d"
-                        }
-                    ],
-                    "_id": "65f26878a8128e5f45db695e"
-                }
-            ]
-        }
-    ],
-    "nutritionalFacts": [
-        {
-            "servingperContainer": [
-                {
-                    "valueWithUnit": "100g",
-                    "_id": "65f26878a8128e5f45db695f"
-                },
-                {
-                    "valueWithUnit": "200g",
-                    "_id": "65f26878a8128e5f45db6960"
-                }
-            ],
-            "servingSize": [
-                {
-                    "valueWithUnit": "50g",
-                    "_id": "65f26878a8128e5f45db6961"
-                },
-                {
-                    "valueWithUnit": "150g",
-                    "_id": "65f26878a8128e5f45db6962"
-                }
-            ],
-            "calories": 280,
-            "item": [
-                {
-                    "item": "Sugar",
-                    "valueWithUnit": "60g",
-                    "subitem": [
-                        {
-                            "name": "Glucose",
-                            "valueWithUnit": "35g",
-                            "_id": "65f26878a8128e5f45db6963"
-                        },
-                        {
-                            "name": "Fructose",
-                            "valueWithUnit": "25g",
-                            "_id": "65f26878a8128e5f45db6964"
-                        }
-                    ],
-                    "_id": "65f26878a8128e5f45db6965"
-                },
-                {
-                    "item": "Fiber",
-                    "valueWithUnit": "8g",
-                    "_id": "65f26878a8128e5f45db6966"
-                }
-            ],
-            "_id": "65f26878a8128e5f45db6967"
-        }
-    ],
-    "dateCreated": "2024-03-15",
-    "giftingInformation": [
-        {
-            "type": "Anniversary",
-            "_id": "65f26878a8128e5f45db6968"
-        }
-    ],
-    "__v": 0,
-    "maxPrice": 50,
-    "minPrice": 30
-}
+[
+    {
+        "_id": "65eff0466582d10e0e129dda",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Uploaded",
+        "imgUrl": "https://bucket.devdojo.cloud/datesfruits/65f2bd7061743.jpg",
+        "name": "Milktea",
+        "description": "Sample description",
+        "products": [
+            {
+                "_id": "65f26878a8128e5f45db6957",
+                "id": 12345,
+                "status": "Drafted",
+                "name": "Regular Protein Blend",
+                "category": "65eff0466582d10e0e129dda",
+                "description": "A delicious and nutritious blend of whey and plant-based proteins for optimal muscle growth",
+                "specification": [
+                    {
+                        "flavour": "Chocolate",
+                        "min_value": 1,
+                        "max_value": 8,
+                        "_id": "65f26878a8128e5f45db6958"
+                    },
+                    {
+                        "flavour": "Vanilla",
+                        "min_value": 2,
+                        "max_value": 9,
+                        "_id": "65f26878a8128e5f45db6959"
+                    }
+                ],
+                "variants": [
+                    {
+                        "id": 1,
+                        "price": 39.99,
+                        "title": "500g",
+                        "images": [
+                            {
+                                "productImgLink": "https://bucket.devdojo.cloud/datesfruits/65f2bd7061743.jpg",
+                                "_id": "65f26878a8128e5f45db695b"
+                            }
+                        ],
+                        "_id": "65f26878a8128e5f45db695a"
+                    },
+                    {
+                        "id": 2,
+                        "price": 69.99,
+                        "title": "1kg",
+                        "images": [
+                            {
+                                "productImgLink": "https://bucket.devdojo.cloud/datesfruits/65f2c60bf3728.png",
+                                "_id": "65f26878a8128e5f45db695d"
+                            }
+                        ],
+                        "_id": "65f26878a8128e5f45db695c"
+                    }
+                ]
+            }
+        ],
+        "nutritionalFacts": [
+            {
+                "servingperContainer": [
+                    {
+                        "valueWithUnit": "100g",
+                        "_id": "65f26878a8128e5f45db695f"
+                    },
+                    {
+                        "valueWithUnit": "200mg",
+                        "_id": "65f26878a8128e5f45db6960"
+                    }
+                ],
+                "servingSize": [
+                    {
+                        "valueWithUnit": "50g",
+                        "_id": "65f26878a8128e5f45db6961"
+                    },
+                    {
+                        "valueWithUnit": "150mg",
+                        "_id": "65f26878a8128e5f45db6962"
+                    }
+                ],
+                "calories": 150,
+                "item": [
+                    {
+                        "item": "Sugar",
+                        "valueWithUnit": "50g",
+                        "subitem": [
+                            {
+                                "name": "Glucose",
+                                "valueWithUnit": "30g",
+                                "_id": "65f26878a8128e5f45db6964"
+                            },
+                            {
+                                "name": "Fructose",
+                                "valueWithUnit": "20g",
+                                "_id": "65f26878a8128e5f45db6965"
+                            }
+                        ],
+                        "_id": "65f26878a8128e5f45db6963"
+                    },
+                    {
+                        "item": "Protein",
+                        "valueWithUnit": "25g",
+                        "subitem": [
+                            {
+                                "name": "Whey",
+                                "valueWithUnit": "15g",
+                                "_id": "65f26878a8128e5f45db6967"
+                            },
+                            {
+                                "name": "Casein",
+                                "valueWithUnit": "10g",
+                                "_id": "65f26878a8128e5f45db6968"
+                            }
+                        ],
+                        "_id": "65f26878a8128e5f45db6966"
+                    }
+                ],
+                "_id": "65f26878a8128e5f45db695e"
+            }
+        ],
+        "dateCreated": "2024-03-14",
+        "giftingInformation": [
+            {
+                "type": "Birthday",
+                "_id": "65f26878a8128e5f45db6969"
+            }
+        ],
+        "__v": 0,
+        "maxPrice": 70,
+        "minPrice": 40
+    },
+    {
+        "_id": "65eff0846582d10e0e129ddf",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Drafted",
+        "imgUrl": "Sample Url",
+        "name": "Coffee",
+        "description": "Sample description",
+        "products": [],
+        "__v": 0,
+        "dateCreated": "2024-03-05"
+    },
+    {
+        "_id": "65f01472b11b0550558364cc",
+        "id": 5,
+        "isFeatured": true,
+        "status": "Uploaded",
+        "imgUrl": "Sample Url",
+        "name": "Kape",
+        "description": "Sample Description",
+        "products": [],
+        "__v": 0,
+        "dateCreated": "2024-03-12"
+    }
+]
